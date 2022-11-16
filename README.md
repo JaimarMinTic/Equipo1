@@ -7,17 +7,19 @@ Repositorio del proyecto de Distribución de paquetes del equipo 1 grupo 2244
 <p> -Implemetación de React + Vite en el Frontend </p>
 <p> -Implementación de la plantilla Bootstrap </p>
 
+------------
+
 #### Arranque
 
--Desde powershell y metido en la carpeta, hay que colocar:
+- Desde powershell y metido en la carpeta, hay que colocar:
 
 *npm install*
 
--esto nos instalará los requerimientos necesarios, luego hay q utilizar:
+- esto nos instalará los requerimientos necesarios, luego hay q utilizar:
 
 *npm run dev*
 
--El cual correrá el entorno virtual en el puerto 3000, desde el navegador se coloca: 
+- El cual correrá el entorno virtual en el puerto 3000, desde el navegador se coloca: 
 
 *http://localhost:3000/*
 
